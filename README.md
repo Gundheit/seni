@@ -1,10 +1,9 @@
 # kasir
 
-> backend kasir
+> seni
 
 ## About
 
-backend for kasir
 
 ## License
 
